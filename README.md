@@ -2,7 +2,7 @@
 KTP Validation Using OCR
 
 ## Preview
-![Preview.png](Preview.png)
+![Screen_Shot.png](Screen_Shot.png)
 
 ## Installation
 
